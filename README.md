@@ -30,6 +30,7 @@ Schema Design
 - Data Cleaning & Standardization
 
 📁 Repository Structure
+├── data_relations/
 ├── raw_data/
 ├── staging_scripts/
 ├── warehouse_scripts/
